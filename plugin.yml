@@ -1,0 +1,9 @@
+name: LoginSystem
+version: BETA
+author: mgsbits
+main: me.igormgs.Main
+commands:
+  registrar:
+  register:
+  logar:
+  login:
